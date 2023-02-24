@@ -1,5 +1,5 @@
 # pandas-challenge
-Module 4 Homework
+
 The goal of this project is to create and manipulate Pandas DataFrames to analyze school and standardized test data.
 This project will help the City's school district and the school board in making strategic decisions regarding future school budgets and priorities.
 
